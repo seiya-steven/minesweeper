@@ -41,7 +41,7 @@ git clone https://github.com/seiya-steven/minesweeper.git
 cd minesweeper
 ```
 
-### Bước 2: Tạo môi trường ảo (khuyến nghị)
+### Bước 2: Tạo môi trường ảo
 
 ```bash
 python -m venv .venv
