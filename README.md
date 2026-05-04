@@ -56,6 +56,10 @@ source .venv/bin/activate
 ### Bước 3: Cài đặt thư viện
 
 ```bash
+# Window
+python -m pip install -r requirements.txt
+
+# macOS / Linux
 pip install -r requirements.txt
 ```
 
